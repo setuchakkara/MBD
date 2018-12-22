@@ -1,3 +1,2 @@
 # MBD
-Model Based Development
-Chakkaravarthi Sethuraman
+Model Based Development 
